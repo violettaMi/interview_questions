@@ -11,6 +11,7 @@
 1. What is the main difference between a `class` and an `object`?
 
 1. Explain the term Constructor
+1. Ruby constructor overloading
 1. Define Destructor
 1. What is an abstract class?
 1. What is the `super` keyword?
