@@ -1,0 +1,4 @@
+- Programming and OOP (Class, Object ...)
+- Database (SQL)
+- Ruby (basics)
+- [GIT](https://github.com/vladhilko/rails_interview_questions/blob/master/0_student_level/questions/git.md) (base commands)
