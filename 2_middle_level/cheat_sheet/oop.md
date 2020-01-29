@@ -28,16 +28,27 @@ An object is a combination of data and methods.
 
 1. What is the main difference between a `class` and an `object`?
  
- 1. Explain the term Constructor.
+1. Explain the term Constructor.
  It is automatically called when an object is created. 
  
- 1. Ruby constructor overloading
+1. Ruby constructor overloading
 Constructor overloading is the ability to have multiple types of constructors in a class. 
   
- 1. Define Destructor
- 1. What is an abstract class?
- 1. What is the `super` keyword?
+1. What is the `super` keyword?
  The super method calls the constructor of the parent class. 
  The super method calls a method of the same name in the parent's class.
  
+1. What is the to_s Method into classes?
+ Any class you define should have a to_s instance method to return a string representation of the object.
+ 
  1. What is method overriding?
+ Though you can add new functionality in a derived class, 
+ but sometimes you would like to change the behavior of already defined method in a parent class.
+ You can do so simply by keeping the method name same and overriding the functionality of the method
+ 
+ 1. What is Operator Overloading?
+ Ruby permits operator overloading, allowing one to define how an operator( +, -, /, *, **, %) shall be used in a particular program.
+ 
+ 1. Create Object Using Allocate
+ Box.allocate   => #<Box:0x00007ffd86821668>
+ Box.new(10, 20)   => #<Box:0x00007ffd8684d560 @width=10, @height=20>

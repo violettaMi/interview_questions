@@ -12,14 +12,16 @@
 
 1. Explain the term Constructor
 1. Ruby constructor overloading
-1. Define Destructor
-1. What is an abstract class?
 1. What is the `super` keyword?
 1. What is method overriding?
 
 1. What are the access modifiers?
 1. What are `subclass` and `superclass`?
 1. Explain the difference between `public`, `protected` and `private` methods
+
+1. What is Operator Overloading?
+1. What is method overriding?
+1. Create Object Using Allocate
 
 ## Design patterns
 
