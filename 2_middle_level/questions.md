@@ -50,3 +50,12 @@
 1. What is The Liskov Substitution Principle
 1. What is The Interface Segregation Principle?
 1. What is The Dependency Inversion Principle?
+
+# Git
+
+1. Ways of Rewriting History
+1. Interactive Rebase
+1. Squash
+1. Amend
+1. What is the difference between git pull and git fetch?
+1. What is git stash?  ‘git stash apply’? git stash drop?
