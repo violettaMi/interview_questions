@@ -2,7 +2,7 @@
 
 4 levels
 
-- student
+- trainee
 - junior
 - middle
 - senior
