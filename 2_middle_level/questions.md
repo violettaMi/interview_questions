@@ -37,6 +37,19 @@
 1. Why in Ruby 24 * 0.1 ≠ 2.4?
 1. What is proc, lambda, block? And what are the differences between them?
 
+1. Modules, class
+1. Duck typing, strong ( no 1 + ‘a’)
+1. Method look_up
+1. Constant look up (senior)
+1. method_missing
+1. Garbage collector
+1. Memoizaition
+
+1. Many threads in ruby. Do you work. With sideqick? Delay jobs, workers (sos)
+1. What does it mean “everything is object in ruby”?
+1. Proc vs lambdas 
+1. Include module vs extend
+
 ## Design principles
 
 1. What is DRY?

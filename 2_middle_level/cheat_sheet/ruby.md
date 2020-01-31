@@ -8,3 +8,10 @@ Blocks are used for passing blocks of code to methods, and procs and lambda’s 
 Blocks are used extensively in Ruby for passing bits of code to functions. By using the yield keyword, a block can be implicitly passed without having to convert it to a proc.
 When using parameters prefixed with ampersands, passing a block to a method results in a proc in the method’s context. Procs behave like blocks, but they can be stored in a variable.
 Lambdas are procs that behave like methods, meaning they enforce arity and return as methods instead of in their parent scope.
+
+1. Explain Ruby class.
+Each Ruby class is an instance of Ruby class. Classes in Ruby are first class objects. It always starts with a keyword class followed by the class name.
+
+1. Explain Ruby module.
+Ruby module is a collection of methods and constants.
+
